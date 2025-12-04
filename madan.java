@@ -1,1 +1,1 @@
-System.out.println(25);
+system.out.println(25);
